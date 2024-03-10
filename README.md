@@ -1,1 +1,1 @@
- ambiente-ubuntu-zsh-python
+# ambiente-ubuntu-zsh-python
